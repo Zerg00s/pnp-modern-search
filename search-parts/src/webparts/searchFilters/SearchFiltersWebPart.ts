@@ -659,6 +659,10 @@ export default class SearchFiltersWebPart extends BaseWebPart<ISearchFiltersWebP
                                 text: webPartStrings.PropertyPane.DataFilterCollection.Templates.CheckBoxTemplate
                             },
                             {
+                                key: BuiltinFilterTemplates.TextBox,
+                                text: webPartStrings.PropertyPane.DataFilterCollection.Templates.TextBoxTemplate
+                            },
+                            {
                                 key: BuiltinFilterTemplates.DateRange,
                                 text: webPartStrings.PropertyPane.DataFilterCollection.Templates.DateRangeTemplate
                             },

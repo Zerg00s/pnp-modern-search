@@ -45,6 +45,7 @@ define([], function() {
                 IsMulti: "Valeur multiple",
                 Templates: {
                     CheckBoxTemplate: "Case à cocher",
+                    TextBoxTemplate: "Text box",
                     DateRangeTemplate: "Période",
                     ComboBoxTemplate: "Zone de liste modifiable",
                     DateIntervalTemplate: "Intervalle de dates",

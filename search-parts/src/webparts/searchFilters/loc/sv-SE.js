@@ -43,6 +43,7 @@ define([], function() {
                 IsMulti: "Flera värden",
                 Templates: {
                     CheckBoxTemplate: "Kryssruta",
+                    TextBoxTemplate: "Text box",
                     DateRangeTemplate: "Datumintervall",
                     ComboBoxTemplate: "Kombinationsruta",
                     DateIntervalTemplate: "Datumintervall (fasta intervall)",

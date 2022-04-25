@@ -43,6 +43,7 @@ define([], function() {
                 IsMulti: "Valores múltiples",
                 Templates: {
                     CheckBoxTemplate: "Casilla de verificación",
+                    TextBoxTemplate: "Text box",
                     DateRangeTemplate: "Rango de fechas",
                     ComboBoxTemplate: "Caja combo",
                     DateIntervalTemplate: "Intervalo de fechas",

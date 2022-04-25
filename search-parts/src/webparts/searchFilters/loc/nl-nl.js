@@ -43,6 +43,7 @@ define([], function() {
                 IsMulti: "Meerdere waarden toestaan",
                 Templates: {
                     CheckBoxTemplate: "Selectievakje",
+                    TextBoxTemplate: "Text box",
                     DateRangeTemplate: "Datumreeks",
                     ComboBoxTemplate: "Keuzelijst",
                     DateIntervalTemplate: "Datum interval",

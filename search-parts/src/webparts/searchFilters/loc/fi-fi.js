@@ -43,6 +43,7 @@ define([], function() {
                 IsMulti: "Monivalinta",
                 Templates: {
                     CheckBoxTemplate: "Valintaruudut",
+                    TextBoxTemplate: "Text box",
                     DateRangeTemplate: "Päivämäärärajaus",
                     ComboBoxTemplate: "Yhdistelmävalinta",
                     DateIntervalTemplate: "Ajankohtarajaus (esim. viime kuussa)",

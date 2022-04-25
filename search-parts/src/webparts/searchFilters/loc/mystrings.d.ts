@@ -42,6 +42,7 @@ declare interface ISearchFiltersWebPartStrings {
             IsMulti: string;
             Templates: {
                 CheckBoxTemplate: string;
+                TextBoxTemplate: string;
                 DateRangeTemplate: string;
                 ComboBoxTemplate: string;
                 DateIntervalTemplate: string;

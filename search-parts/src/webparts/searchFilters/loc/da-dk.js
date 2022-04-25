@@ -41,8 +41,8 @@ define([], function() {
                 ANDOperator: "OG",
                 OROperator: "ELLER",
                 IsMulti: "Multiværdier",
-                Templates: {
                     CheckBoxTemplate: "Check box",
+                    TextBoxTemplate: "Text box",
                     DateRangeTemplate: "Datointerval",
                     ComboBoxTemplate: "Combo-boks",
                     DateIntervalTemplate: "Datointerval",
